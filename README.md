@@ -1,6 +1,6 @@
 # PhD student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, 
 
 ## Education
 - Ph.D., Chemical Science and Technology |Institute of Chemical Research of Catalonia (ICIQ) & Degree awarded by Universitat Rovira i Virgili (URV)	(April 2021 - present)		       
