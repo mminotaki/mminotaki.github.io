@@ -3,10 +3,10 @@
 #### Technical Skills: Python, SQL, 
 
 ## Education
-- **Ph.D. Chemical Science and Technology **|Institute of Chemical Research of Catalonia (ICIQ) & degree awarded by Universitat Rovira i Virgili (URV)	(_April 2021 - present_)		       
-- **M.Sc. Materials Science and Technology **|University of Crete (_Sept 2018 - Nov 2018_)         		
+- **Ph.D. Chemical Science and Technology**|Institute of Chemical Research of Catalonia (ICIQ) & degree awarded by Universitat Rovira i Virgili (URV)	(_April 2021 - present_)		       
+- **M.Sc. Materials Science and Technology**|University of Crete (_Sept 2018 - Nov 2018_)         		
 
-- **B.Sc. Physics **|University of Crete (_Sept 2011 - Febr 2018_)
+- **B.Sc. Physics**|University of Crete (_Sept 2011 - Febr 2018_)
   
 ## Work Experience
 
