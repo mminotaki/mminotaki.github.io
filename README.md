@@ -16,7 +16,6 @@ Practicing the implementation of machine learning algorithms on datasets involvi
 Explaining Fortran language to 1st-year undergraduate students and guiding then in lab practices.
 
 
-
 ## Publications
 
 1.Minotaki M.G.; López N. Electronic Properties of Single-Atom Metal Catalysts Supported on Nitrogen-Doped Carbon. The Journal of Physical Chemistry C, 2024, 8,7, (doi: 10.1021/acs.jpcc.4c03232) 
@@ -26,9 +25,13 @@ Explaining Fortran language to 1st-year undergraduate students and guiding then 
 3.Koutsouroubi E.D.; Vamvasakis I.; Minotaki M.G.; Papadas I.T.; Drivas C.; Choulis S.A.; Kopidakis G.; Kennou S.; Armatas G.S. Ni-doped MoS2 modified graphitic carbon nitride layered hetero-nanostructures as highly efficent photocatalysts for environmental remedation. Applied Catalysis B: Environmental 297: 120419, 2021 (doi: 10.1016/j.apcatb.2021.120419).
 
 
-
 ## Conferences
+- Statistical techniques and machine learning applications on single atom and nitrogen doped graphene for catalysis. Minotaki M. López N. - Psi-k Conference 2022 Symposium  Contributed talk C10.35 : Materials for energy 
 
-- Theoretical Study of MoS 2 Defects and Dopants for Hydrogen Evolution Reaction. M Minotaki, G Kopidakis - APS March Meeting Abstracts, 2021
+
+- Theoretical Study of MoS 2 Defects and Dopants for Hydrogen Evolution Reaction. M Minotaki, G Kopidakis - Bulletin of the American Physical Society 66
+2021
+
+
 
 
