@@ -1,6 +1,18 @@
 # PhD student
 
-#### Technical Skills: Python, SQL, 
+
+## Skills
+
+### Programming Languages & Tools
+- **Python**: Data analysis, Machine Learning, Automation
+- **SQL**: Database Management, Query Optimization
+- **Fortran**: Scientific Computing
+
+### Data Science & Machine Learning
+- **Machine Learning Algorithms**: Regression, Classification, Clustering
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+- **Statistical Modeling**: Hypothesis Testing, Regression Analysis
+
 
 ## Education
 - **Ph.D. Chemical Science and Technology**|Institute of Chemical Research of Catalonia (ICIQ) & degree awarded by Universitat Rovira i Virgili (URV)	(_April 2021 - present_)		       
