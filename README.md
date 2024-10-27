@@ -47,5 +47,13 @@ Explaining Fortran language to 1st-year undergraduate students and guiding them 
 2021
 
 
+## Certifications
+
+- **Machine Learning Specialization** | **Coursera** - Stanford University  
+- **Data Science Professional Certificate** | **IBM** - IBM Data Science  
+- **Advanced SQL for Data Scientists** | **DataCamp**  
+- **Python for Data Science and Machine Learning Bootcamp** | **Udemy**  
+
+_For a complete list of my certifications, see my DataCamp Portfolio: [DataCamp Portfolio](https://www.datacamp.com/portfolio/mminotaki)._
 
 
