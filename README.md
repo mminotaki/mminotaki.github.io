@@ -3,7 +3,7 @@
 
 ## Skills
 
-### Programming Languages & Tools
+<h3 style="color: #800020;">Programming Languages & Tools</h3>
 - **Simulation packages**: VASP, GPAW, Gaussian, LAMMPS
 - **Programming**: Python, Fortran, Bash, SQL, Julia 
 - **Libraries**: Scikit-learn, ASE, Pymatgen, Pandas, Seaborn, Plotly 
