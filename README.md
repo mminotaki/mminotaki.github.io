@@ -4,14 +4,12 @@
 ## Skills
 
 ### Programming Languages & Tools
-- **Python**: Data analysis, Machine Learning, Automation
-- **SQL**: Database Management, Query Optimization
-- **Fortran**: Scientific Computing
+- **Simulation packages**: VASP, GPAW, Gaussian, LAMMPS
+- **Programming**: Python, Fortran, Bash, SQL, Julia 
+- **Libraries**: Scikit-learn, ASE, Pymatgen, Pandas, Seaborn, Plotly 
+- **Frameworks and Tools**: Shell, Git, VS Code, Vim, Blender, Inkscape, LaTeX, HPC-slurm, Iochem-BD
+- **Languages**: Greek (native), English (C2), Spanish (beginner)
 
-### Data Science & Machine Learning
-- **Machine Learning Algorithms**: Regression, Classification, Clustering
-- **Data Analysis**: Pandas, NumPy, Matplotlib
-- **Statistical Modeling**: Hypothesis Testing, Regression Analysis
 
 
 ## Education
