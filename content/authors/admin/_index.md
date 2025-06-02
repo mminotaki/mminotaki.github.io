@@ -66,9 +66,9 @@ education:
 
       
   - area: BSc Physics
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution:Department of Physics, University of Crete
+    date_start: 2011-10-01
+    date_end: 2018-02-01
     summary: |
       A Nonadiabatic Model for the Primary Electron Transfer in Photosynthetic Reaction
 
@@ -93,36 +93,73 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
+        description: ''
+        percent: 70
+        icon: code-bracket
+  - name: Data Science & Machine Learning
+    items:
+      - name: Data Analysis
         description: ''
         percent: 100
         icon: chart-bar
+      - name: Machine Learning
+        description: ''
+        percent: 90
+        icon: brain
+  - name: Databases
+    items:
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+      - name: NoSQL
+        description: ''
+        percent: 30
+        icon: database
+  - name: Simulation & Modeling
     items:
-      - name: Hiking
+      - name: First-Principles Simulations
+        description: ''
+        percent: 85
+        icon: flask
+  - name: Dev Tools
+    items:
+      - name: Git
+        description: ''
+        percent: 90
+        icon: git
+      - name: Docker
+        description: ''
+        percent: 70
+        icon: docker
+  - name: Cloud & Computing
+    items:
+      - name: AWS
+        description: ''
+        percent: 50
+        icon: cloud
+      - name: HPC
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: server
+  - name: Other Skills
+    items:
+      - name: Scientific Writing
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        percent: 95
+        icon: file-alt
+      - name: Collaboration
         description: ''
-        percent: 80
-        icon: camera
+        percent: 90
+        icon: users
+
 
 languages:
   - name: English
