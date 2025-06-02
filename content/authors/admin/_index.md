@@ -66,7 +66,7 @@ education:
 
       
   - area: BSc Physics
-    institution:Department of Physics, University of Crete
+    institution: Department of Physics, University of Crete
     date_start: 2011-10-01
     date_end: 2018-02-01
     summary: |
