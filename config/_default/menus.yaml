@@ -8,20 +8,20 @@ main:
     url: /
     weight: 10
   - name: Education
-    url: education/
+    url: experience/
     weight: 11
   - name: Skills
-    url: /#skills
+    url: experience/
     weight: 12
   - name: Publications
     url: /#papers
     weight: 13
   - name: Conferences
-    url: /#conferences
+    url: /#talks
     weight: 20
   - name: Research Projects
     url: projects/
     weight: 30
   - name: Tutorials
-    url: tutorials/
+    url: teaching/
     weight: 40
