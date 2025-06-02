@@ -36,72 +36,59 @@ profiles:
   - icon: brands/github
     url: https://github.com/mminotaki
   - icon: brands/linkedin
-    url: in/maria-minotaki-821420215
+    url: in/maria-minotaki-phd-821420215
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=el&user=wogNK3YAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-8374-0068
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning & Data Science
+  - First-Principles Simulations
+  - Materials Science
 
 education:
-  - area: PhD in Computational Chemistry
-    institution: Institut Català d'Investigació Química
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Chemical Science and Technology
+    institution: Institute of Chemical Research of Catalonia
+    date_start: 2021-04-01
+    date_end: 2025-04-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Insights into the Stability of Single-Atom Catalysts on Doped Carbon using Machine. Supervised by [Prof. López]
+    #button:
+      #text: 'Read Thesis'
+      #url: 'https://example.com'
+  - area: MSc Materials Science and Technology
+    institution: Department of Materials Science and Technology, University of Crete
+    date_start: 2018-09-01
+    date_end: 2020-11-01
     summary: |
-      GPA: 3.8/4.0
+      Theoretical study of MoS$_{2}$ Defects and Dopants for Hydrogen Evolution Reaction.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+      
+  - area: BSc Physics
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      A Nonadiabatic Model for the Primary Electron Transfer in Photosynthetic Reaction
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Laboratory Technician
+    company_name: ICIQ
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-10-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      Applied machine learning algorithms and statistical techniques for materials in catalysis. 
+  - position: Teaching Assistant
+    company_name: Department of Materials Science and Technology
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-09-01
+    date_end: 2020-01-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Assisted in ``Introduction to Programming (Fortran)'' course by guiding first-year undergraduate students during lab practicals.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
