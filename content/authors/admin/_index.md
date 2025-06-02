@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Maria Minotaki, PhD
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Maria
+last_name: Minotaki
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,31 +20,27 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD in Computational Chemistry
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: ICIQ
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mminotaki@iciq.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mminotaki
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: in/maria-minotaki-821420215
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=el&user=wogNK3YAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-8374-0068
 
 interests:
   - Artificial Intelligence
@@ -52,8 +48,8 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Computational Chemistry
+    institution: Institut Català d'Investigació Química
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -183,4 +179,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Maria Minotaki holds a PhD in Computational Chemistry from the Institute of Chemical Research of Catalonia. Her research focuses on first-principles simulations, machine learning, and data science applied to catalyst design. With experience across physics, materials science, and chemistry, she develops predictive models and simulation workflows to accelerate discoveries in theoretical catalysis.
