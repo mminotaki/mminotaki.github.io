@@ -62,7 +62,7 @@ education:
     date_start: 2018-09-01
     date_end: 2020-11-01
     summary: |
-      Theoretical study of MoS$_{2}$ Defects and Dopants for Hydrogen Evolution Reaction.
+      Theoretical study of $\\mathrm{MoS}_{2}$ Defects and Dopants for Hydrogen Evolution Reaction.
 
       
   - area: BSc Physics
@@ -93,72 +93,106 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Languages
+  - name: Programming
     items:
       - name: Python
         description: ''
-        percent: 80
         icon: code-bracket
-      - name: R
+      - name: Fortran
         description: ''
-        percent: 70
         icon: code-bracket
-  - name: Data Science & Machine Learning
-    items:
-      - name: Data Analysis
+      - name: Bash
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Machine Learning
-        description: ''
-        percent: 90
-        icon: brain
-  - name: Databases
-    items:
+        icon: code-bracket
       - name: SQL
         description: ''
-        percent: 40
+        icon: code-bracket
+      - name: Julia
+        description: ''
+        icon: code-bracket
+  - name: Simulation packages
+    items:
+      - name: VASP
+        description: ''
+        icon: chart-bar
+      - name: GPAW
+        description: ''
+        icon: brain
+      - name: Gaussian
+        description: ''
+        icon: brain
+      - name: LAMMPS
+        description: ''
+        icon: brain
+  - name: Data Science & Development
+    items:
+      - name: Machine Learning
+        description: ''
         icon: circle-stack
-      - name: NoSQL
+      - name: Data Analysis
         description: ''
-        percent: 30
         icon: database
-  - name: Simulation & Modeling
-    items:
-      - name: First-Principles Simulations
+      - name: Data Engineering
         description: ''
-        percent: 85
-        icon: flask
-  - name: Dev Tools
+        icon: database
+      - name: OOP
+        description: ''
+        icon: database
+      - name: Package development
+        description: ''
+        icon: database
+      - name: Data storytelling
+        description: ''
+        icon: database
+  - name: Libraries
     items:
+      - name: Scikit-learn
+        description: ''
+        icon: flask
+      - name: Pymatgen
+        description: ''
+        icon: flask
+      - name: ASE
+        description: ''
+        icon: flask
+      - name: Pandas
+        description: ''
+        icon: flask
+      - name: Seaborn
+        description: ''
+        icon: flask
+      - name: Plotly
+        description: ''
+        icon: flask
+  - name: Fremeworks & Tools
+    items:
+      - name: HPC-slurm
+        description: ''
+        icon: git
+      - name: Conda
+        description: ''
+        icon: docker
       - name: Git
         description: ''
-        percent: 90
         icon: git
-      - name: Docker
+      - name: VS Code
         description: ''
-        percent: 70
-        icon: docker
-  - name: Cloud & Computing
-    items:
-      - name: AWS
+        icon: git
+      - name: Vim
         description: ''
-        percent: 50
-        icon: cloud
-      - name: HPC
+        icon: git
+      - name: VESTA
         description: ''
-        percent: 60
-        icon: server
-  - name: Other Skills
-    items:
-      - name: Scientific Writing
+        icon: git
+      - name: Blender
         description: ''
-        percent: 95
-        icon: file-alt
-      - name: Collaboration
+        icon: git
+      - name: Inkscape
         description: ''
-        percent: 90
-        icon: users
+        icon: git
+      - name: LaTeX
+        description: ''
+        icon: git
 
 
 languages:
