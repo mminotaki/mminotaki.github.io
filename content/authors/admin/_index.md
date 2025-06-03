@@ -78,7 +78,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-10-01
-    date_end: ''
+    date_end: 2021-04-01
     summary: |
       Applied machine learning algorithms and statistical techniques for materials in catalysis. 
   - position: Teaching Assistant
