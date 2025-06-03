@@ -30,7 +30,10 @@ publication_short: ""
 abstract: Single-atom serve as catalysts (SAC) with intriguing properties, offering a balance between heterogeneous and homogeneous properties. While their heterogeneous nature has been extensively explored, the role of the scaffold as a ligand remains obscure but severely affects the metal electronic structure. In this study, we employ density functional theory to investigate the electronic properties of single-atom catalysts supported on nitrogen-doped carbon, focusing on the extensively used transition metal centers Fe, Ni, Cu, and Pd. Our analysis includes metrics such as Bader charges, the metal d-band center, and the Fermi level, focusing on the coordination environment of the transition metal center and analyzing the influence of the nitrogen content on these properties. We utilized dimensionality reduction techniques to identify similar electronic configurations. Our findings reveal that the SACs electronic structure predominantly exhibits metal cations with free-atom-like d-states, with the coordination environment’s significance outweighing the metal nature, and further influenced by nitrogen content and type. Ultimately, our study underscores the ability to finely tune the host to adapt to reactivity, offering insights into the continuous modulation of electronic structures.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+text: |-
+  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  - Duis posuere tellus ac convallis placerat.
+  - Proin tincidunt magna sed ex sollicitudin condimentum.
 
 #tags:
 #  - Large Language Models
