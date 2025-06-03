@@ -110,6 +110,7 @@ skills:
       - name: Julia
         description: ''
         icon: code-bracket
+  - name: ''
   - name: Simulation packages
     items:
       - name: VASP
