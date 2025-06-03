@@ -30,7 +30,7 @@ abstract: Single metal atoms on doped carbons constitute a new class of extremel
 #tags:
 #- Machine learning for single-atom catalysts stability
 
-#featured: true
+featured: true
 
 links:
 - name: "J. Mater. Chem. A, 2024, 12, 11049–11061, DOI: 10.1039/D3TA05898K"
