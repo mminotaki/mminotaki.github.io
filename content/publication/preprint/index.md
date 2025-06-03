@@ -33,7 +33,7 @@ summary:
 featured: true
 
 links:
-- name: Custom Link
+- name: "J. Mater. Chem. A, 2024, 12, 11049–11061"
   url: https://pubs.rsc.org/en/content/articlelanding/2024/ta/d3ta05898k
 #url_pdf: http://arxiv.org/pdf/1512.04133v1
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
