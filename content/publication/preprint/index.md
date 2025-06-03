@@ -20,10 +20,10 @@ publication_short: ""
 abstract: Single metal atoms on doped carbons constitute a new class of extremely appealing materials, as they present the best metal utilization for catalysis. However, their stability can be compromised by metal aggregation and the formation of nanoparticles, which often results in reduced activity or even catalyst deactivation. In many cases, the carbon hosts are generated via thermal processes, leading to poorly controlled materials. This causes a structural and compositional diversity that is modeled via indirect procedures and by comparison to a collection of structural models with different compositions. Our aim in this work is to develop a general framework based on machine learning techniques to determine the stability of the different structures against aggregation as nanoparticles. Here, we built machine learning models for the cavities and identified the robust features characterizing the metal–support interaction, considering different heteroatoms in the decorative cavity and single metal atoms. The descriptors presented here are accessible and cost-effective, such as the cavity size, electronegativity of the metal and heteroatoms, different covalent radii, and the metal electronic density. These can then be employed in the search for a mathematical equation that describes the adsorption energy via the Bayesian machine scientist. The algorithm is able to separate coordination, and covalent and ionic contributions expressed by the descriptors. This approach paves the way towards general modeling of single atoms in modified carbons particularly addressing one of the crucial features, stability.
 
 # Summary. An optional shortened abstract.
-summary:
-  - ML workflow for single-atom catalyst stability.
-  - DFT simulations automation, data analysis, and feature engineering.
-  - Regression models to predict adsorption energies and extract physical insights.
+summary: >
+  • ML workflow for catalyst stability.\n
+  • Automated DFT simulations and data analysis.\n
+  • Predict adsorption energies and extract insights.
   
 
 
