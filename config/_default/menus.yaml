@@ -25,3 +25,6 @@ main:
   - name: Tutorials
     url: teaching/
     weight: 40
+
+css:
+  - css/custom.css
