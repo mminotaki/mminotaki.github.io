@@ -130,11 +130,6 @@ skills:
   - name: ''
   - name: ''
   - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
   - name: Simulation packages
     items:
       - name: VASP
@@ -167,11 +162,6 @@ skills:
       - name: ''
         description: ''
         icon: ''
-  - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
   - name: ''
   - name: ''
   - name: ''
@@ -214,11 +204,6 @@ skills:
   - name: ''
   - name: ''
   - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
   - name: Libraries
     items:
       - name: Scikit-learn
@@ -251,11 +236,6 @@ skills:
       - name: ''
         description: ''
         icon: ''
-  - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
-  - name: ''
   - name: ''
   - name: ''
   - name: ''
