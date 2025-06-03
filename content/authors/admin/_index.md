@@ -109,23 +109,31 @@ skills:
         icon: code-bracket
       - name: Julia
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
-
+        icon: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
   - name: ''
   - name: Simulation packages
     items:
@@ -143,23 +151,31 @@ skills:
         icon: brain
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
-      
+        icon: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''   
   - name: ''
   - name: Data Science & Development
     items:
@@ -183,17 +199,25 @@ skills:
         icon: database
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
-
+        icon: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
   - name: ''
   - name: Libraries
     items:
@@ -217,18 +241,26 @@ skills:
         icon: flask
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
-
-  - name:
+        icon: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
+  - name: ''
   - name: Fremeworks & Tools
     items:
       - name: HPC-slurm
@@ -257,10 +289,10 @@ skills:
         icon: git
       - name: LaTeX
         description: ''
-        icon: git
+        icon: ''
       - name: ''
         description: ''
-        icon: code-bracket
+        icon: ''
       
 
 
