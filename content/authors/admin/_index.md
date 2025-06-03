@@ -53,7 +53,7 @@ education:
     date_start: 2021-04-01
     date_end: 2025-04-01
     summary: |
-      Insights into the Stability of Single-Atom Catalysts on Doped Carbon using Machine. Supervised by [Prof. López]
+      Insights into the Stability of Single-Atom Catalysts on Doped Carbon using Machine. Supervised by Prof. López
     #button:
       #text: 'Read Thesis'
       #url: 'https://example.com'
@@ -62,7 +62,7 @@ education:
     date_start: 2018-09-01
     date_end: 2020-11-01
     summary: |
-      Theoretical study of $\\mathrm{MoS}_{2}$ Defects and Dopants for Hydrogen Evolution Reaction.
+      Theoretical study of MoS<sub>2</sub> Defects and Dopants for Hydrogen Evolution Reaction. Supervised by Prof. Kopidakis
 
       
   - area: BSc Physics
@@ -70,7 +70,7 @@ education:
     date_start: 2011-10-01
     date_end: 2018-02-01
     summary: |
-      A Nonadiabatic Model for the Primary Electron Transfer in Photosynthetic Reaction
+      A Nonadiabatic Model for the Primary Electron Transfer in Photosynthetic Reaction Center's Cofactors. Supervised by Prof. Kopidakis
 
 work:
   - position: Laboratory Technician
@@ -88,7 +88,7 @@ work:
     date_start: 2019-09-01
     date_end: 2020-01-31
     summary: |
-      Assisted in ``Introduction to Programming (Fortran)'' course by guiding first-year undergraduate students during lab practicals.
+      Assisted in “Introduction to Programming (Fortran)” course by guiding first-year undergraduate students during lab practicals.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
