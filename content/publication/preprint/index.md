@@ -11,7 +11,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+# publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -21,8 +21,8 @@ abstract: Single metal atoms on doped carbons constitute a new class of extremel
 
 # Summary. An optional shortened abstract.
 summary: |
-  - ML workflow for catalyst stability.\n
-  - Automated DFT simulations and data analysis.\n
+  - ML workflow for catalyst stability.
+  - Automated DFT simulations and data analysis.
   - Predict adsorption energies and extract insights.
   
 
