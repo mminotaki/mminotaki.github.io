@@ -1,3 +1,4 @@
 .skills__section .row {
-  gap: 10rem; /* Increase spacing between columns */
+  column-gap: 4rem;
+  row-gap: 0;
 }
