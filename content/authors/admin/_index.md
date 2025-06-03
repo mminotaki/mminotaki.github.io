@@ -110,6 +110,22 @@ skills:
       - name: Julia
         description: ''
         icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+
   - name: ''
   - name: Simulation packages
     items:
@@ -125,6 +141,26 @@ skills:
       - name: LAMMPS
         description: ''
         icon: brain
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      
+  - name: ''
   - name: Data Science & Development
     items:
       - name: Machine Learning
@@ -145,6 +181,20 @@ skills:
       - name: Data storytelling
         description: ''
         icon: database
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+
+  - name: ''
   - name: Libraries
     items:
       - name: Scikit-learn
@@ -165,6 +215,20 @@ skills:
       - name: Plotly
         description: ''
         icon: flask
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+      - name: ''
+        description: ''
+        icon: code-bracket
+
+  - name:
   - name: Fremeworks & Tools
     items:
       - name: HPC-slurm
@@ -194,6 +258,10 @@ skills:
       - name: LaTeX
         description: ''
         icon: git
+      - name: ''
+        description: ''
+        icon: code-bracket
+      
 
 
 languages:
