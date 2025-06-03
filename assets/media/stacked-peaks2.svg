@@ -5,7 +5,7 @@
    width="960"
    height="540"
    version="1.1"
-   sodipodi:docname="stacked-peaks.svg"
+   sodipodi:docname="stacked-peaks_sacs.svg"
    xml:space="preserve"
    inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -98,13 +98,13 @@
      showguides="true"
      inkscape:zoom="0.7247751"
      inkscape:cx="241.45421"
-     inkscape:cy="278.70715"
+     inkscape:cy="118.6575"
      inkscape:window-width="1440"
      inkscape:window-height="847"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6"><sodipodi:guide
+     inkscape:current-layer="visual"><sodipodi:guide
        position="378.04831,607.60718"
        orientation="0,-1"
        id="guide5"
@@ -123,7 +123,7 @@
        x="1.8517519"
        y="-4.3222113" /><g
        id="g5"
-       transform="matrix(0.73202511,0,0,0.73202511,125.59801,142.40654)"><image
+       transform="matrix(1.1595456,0,0,1.1595456,-81.381375,-96.951763)"><image
          width="512"
          height="512"
          clip-path="url(#p.1-9-5-2)"
