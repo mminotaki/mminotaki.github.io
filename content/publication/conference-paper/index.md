@@ -31,9 +31,9 @@ abstract: Single-atom serve as catalysts (SAC) with intriguing properties, offer
 
 # Summary. An optional shortened abstract.
 text: |-
-  - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  - Duis posuere tellus ac convallis placerat.
-  - Proin tincidunt magna sed ex sollicitudin condimentum.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Duis posuere tellus ac convallis placerat.
+-Proin tincidunt magna sed ex sollicitudin condimentum.
 
 #tags:
 #  - Large Language Models
