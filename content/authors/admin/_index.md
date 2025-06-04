@@ -277,12 +277,12 @@ skills:
 
 
 languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Greek (native)
+    #percent: 100
+  - name: English (C2)
+    #percent: 75
+  - name: Spanidh (beginner)
+    #percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
