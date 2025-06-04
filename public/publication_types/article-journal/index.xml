@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article-Journal | Maria Minotaki</title>
-    <link>https://example.com/publication_types/article-journal/</link>
-      <atom:link href="https://example.com/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication_types/article-journal/</link>
+      <atom:link href="http://localhost:1313/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>Article-Journal</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_fc72ece7eec4a30.png</url>
+      <url>http://localhost:1313/media/icon_hu_fc72ece7eec4a30.png</url>
       <title>Article-Journal</title>
-      <link>https://example.com/publication_types/article-journal/</link>
+      <link>http://localhost:1313/publication_types/article-journal/</link>
     </image>
     
     <item>
       <title>A generalized model for estimating adsorption energies of single atoms on doped carbon materials†</title>
-      <link>https://example.com/publication/10-1039-d-3-ta-05898-k/</link>
+      <link>http://localhost:1313/publication/10-1039-d-3-ta-05898-k/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/10-1039-d-3-ta-05898-k/</guid>
+      <guid>http://localhost:1313/publication/10-1039-d-3-ta-05898-k/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electronic Properties of Single-Atom Metal Catalysts Supported on Nitrogen-Doped Carbon</title>
-      <link>https://example.com/publication/10-1021-acs-jpcc-4-c-03232/</link>
+      <link>http://localhost:1313/publication/10-1021-acs-jpcc-4-c-03232/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/10-1021-acs-jpcc-4-c-03232/</guid>
+      <guid>http://localhost:1313/publication/10-1021-acs-jpcc-4-c-03232/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ni-doped MoS2 modified graphitic carbon nitride layered hetero-nanostructures as highly efficient photocatalysts for environmental remediation</title>
-      <link>https://example.com/publication/10-1016-j-apcatb-2021-120419/</link>
+      <link>http://localhost:1313/publication/10-1016-j-apcatb-2021-120419/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/10-1016-j-apcatb-2021-120419/</guid>
+      <guid>http://localhost:1313/publication/10-1016-j-apcatb-2021-120419/</guid>
       <description></description>
     </item>
     
