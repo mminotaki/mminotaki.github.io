@@ -24,7 +24,7 @@ sections:
       username: admin
     design:
       show_skill_percentage: false
-      columns: 9
+      columns: 10
   - block: resume-awards
     content:
       title: Certifications
