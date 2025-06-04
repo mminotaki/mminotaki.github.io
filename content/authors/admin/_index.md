@@ -280,6 +280,7 @@ languages:
   - name: Greek (native)
   - name: English (C2)
   - name: Spanish (beginner)
+    
 
 
 # Awards.
