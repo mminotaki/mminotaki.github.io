@@ -278,11 +278,9 @@ skills:
 
 languages:
   - name: Greek (native)
-    percent: ''
   - name: English (C2)
-    percent: ''
   - name: Spanish (beginner)
-    percent: ''
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
