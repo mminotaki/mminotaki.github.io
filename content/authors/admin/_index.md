@@ -277,9 +277,12 @@ skills:
 
 
 languages:
-  - name: Greek (native)
-  - name: English (C2)
-  - name: Spanish (beginner)
+  - name: Greek
+    level: native
+  - name: English
+    level: C2
+  - name: Spanish 
+    level: beginner
     
 
 
