@@ -289,31 +289,30 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: 'Machine Learning'
+    url: https://coursera.org/share/592122975cf8610519bb882754a8101c
+    date: '2021-03-21'
     awarder: Coursera
     icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
+    summary: ''
+  - title: 'Machine Learning with Python'
+    url: https://coursera.org/share/a43b6f2fd543f3042ae6c5971671359d
+    date: '2024-03-24'
+    awarder: Coursera
+    icon: coursera
+    summary: ''
+  - title: 'Neural Networks and Deep Learning'
+    url: https://coursera.org/share/f0d82e1839261ca419c89e5424555069
+    date: '2023-05-17'
     awarder: edX
     icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    summary: ''
+  - title: 'Writing in the Sciences'
+    url: https://coursera.org/share/42bdd163ff33539b242de2d4ae26ad97
+    date: '2021-10-03'
     awarder: datacamp
     icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    summary: ''
 ---
 
 ## About Me
