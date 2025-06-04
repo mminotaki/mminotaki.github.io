@@ -304,12 +304,54 @@ awards:
   - title: 'Neural Networks and Deep Learning'
     url: https://coursera.org/share/f0d82e1839261ca419c89e5424555069
     date: '2023-05-17'
-    awarder: edX
-    icon: edx
+    awarder: Coursera
+    icon: coursera
     summary: ''
   - title: 'Writing in the Sciences'
     url: https://coursera.org/share/42bdd163ff33539b242de2d4ae26ad97
     date: '2021-10-03'
+    awarder: Coursera
+    icon: Coursera
+    summary: ''
+  - title: 'Python Developer'
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/track/dc05de10c5a01f981c7f933a070cb008881a1f40
+    date: '2024-09-01'
+    awarder: datacamp
+    icon: datacamp
+    summary: ''
+  - title: 'SQL Fundamentals'
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/track/65a168d9621fd157f27e3de10db58bf3a1b93630
+    date: '2024-06-12'
+    awarder: datacamp
+    icon: datacamp
+    summary: ''
+  - title: 'Julia Fundamentals'
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/track/20c4155f46a24c5ab3ff0bc5df2ae4c30421dacc
+    date: '2024-04-28'
+    awarder: datacamp
+    icon: datacamp
+    summary: ''
+  - title: 'Machine Learning Scientist'
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/track/213fd40b44988c34cde173b3058048da5a45dea6
+    date: '2024-04-14'
+    awarder: datacamp
+    icon: datacamp
+    summary: ''
+  - title: 'Python Data Fundamentals'
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/track/8aaacaaf27d3bac07254f2e9f7f141b171c347b3
+    date: '2024-03-12'
+    awarder: datacamp
+    icon: datacamp
+    summary: ''
+  - title: 'Data Analyst'
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/track/8da23a0baea2f00d8a92f4149e55dd1f0e7d4366
+    date: '2024-01-08'
+    awarder: datacamp
+    icon: datacamp
+    summary: ''
+  - title: 'Associate Data Scientist'
+    url: https://www.datacamp.com/completed/statement-of-accomplishment/track/bbae601ab8cbbf474fc0c1a99c02a0c438cb49b3
+    date: '2024-01-03'
     awarder: datacamp
     icon: datacamp
     summary: ''
