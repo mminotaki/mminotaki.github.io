@@ -276,13 +276,13 @@ skills:
       
 
 
-languages:
-  - name: Greek
-    description: 'native'
-  - name: English
-    description: 'C2'
-  - name: Spanish 
-    description: 'beginner'
+# languages:
+#   - name: Greek
+#     description: 'native'
+#   - name: English
+#     description: 'C2'
+#   - name: Spanish 
+#     description: 'beginner'
     
 
 
