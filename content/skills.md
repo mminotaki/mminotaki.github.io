@@ -28,8 +28,8 @@ sections:
     content:
       title: Certifications
       username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
+  # - block: resume-languages
+  #   content:
+  #     title: Languages
+  #     username: admin
 ---
