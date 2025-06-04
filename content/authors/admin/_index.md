@@ -278,11 +278,11 @@ skills:
 
 languages:
   - name: Greek
-    level: native
+    description: 'native'
   - name: English
-    level: C2
+    description: 'C2'
   - name: Spanish 
-    level: beginner
+    description: 'beginner'
     
 
 
