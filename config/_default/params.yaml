@@ -62,4 +62,4 @@ features:
 
 # Add your custom CSS
 custom_css:
-  - scss/custom.css
+  - scss/custom.scss
