@@ -97,16 +97,16 @@ skills:
     items:
       - name: Python
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: Fortran
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: Bash
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: SQL
         description: ''
-        icon: code-bracket
+        icon: ''
       - name: Julia
         description: ''
         icon: ''
@@ -134,16 +134,16 @@ skills:
     items:
       - name: VASP
         description: ''
-        icon: chart-bar
+        icon: ''
       - name: GPAW
         description: ''
-        icon: brain
+        icon: ''
       - name: Gaussian
         description: ''
-        icon: brain
+        icon: ''
       - name: LAMMPS
         description: ''
-        icon: brain
+        icon: ''
       - name: ' '
         description: ''
         icon: ''
@@ -171,22 +171,22 @@ skills:
     items:
       - name: Machine Learning
         description: ''
-        icon: circle-stack
+        icon: ''
       - name: Data Analysis
         description: ''
-        icon: database
+        icon: ''
       - name: Data Engineering
         description: ''
-        icon: database
+        icon: ''
       - name: OOP
         description: ''
-        icon: database
+        icon: ''
       - name: Package development
         description: ''
-        icon: database
+        icon: ''
       - name: Data storytelling
         description: ''
-        icon: database
+        icon: ''
       - name: ' '
         description: ''
         icon: ''
@@ -208,22 +208,22 @@ skills:
     items:
       - name: Scikit-learn
         description: ''
-        icon: flask
+        icon: ''
       - name: Pymatgen
         description: ''
-        icon: flask
+        icon: ''
       - name: ASE
         description: ''
-        icon: flask
+        icon: ''
       - name: Pandas
         description: ''
-        icon: flask
+        icon: ''
       - name: Seaborn
         description: ''
-        icon: flask
+        icon: ''
       - name: Plotly
         description: ''
-        icon: flask
+        icon: ''
       - name: ' '
         description: ''
         icon: ''
@@ -245,28 +245,28 @@ skills:
     items:
       - name: HPC-slurm
         description: ''
-        icon: git
+        icon: ''
       - name: Conda
         description: ''
-        icon: docker
+        icon: ''
       - name: Git
         description: ''
-        icon: git
+        icon: ''
       - name: VS Code
         description: ''
-        icon: git
+        icon: ''
       - name: Vim
         description: ''
-        icon: git
+        icon: ''
       - name: VESTA
         description: ''
-        icon: git
+        icon: ''
       - name: Blender
         description: ''
-        icon: git
+        icon: ''
       - name: Inkscape
         description: ''
-        icon: git
+        icon: ''
       - name: LaTeX
         description: ''
         icon: ''
