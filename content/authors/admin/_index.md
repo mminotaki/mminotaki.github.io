@@ -93,7 +93,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming
+  - name: "<div style='margin-left:0; padding-left:0;'>Programming</div>"
     items:
       - name:  "<span style='text-transform: none;'>Python</span>"
         description: ''
