@@ -130,7 +130,7 @@ skills:
   - name: ''
   - name: ''
   - name: ''
-  - name: Simulation packages
+  - name: <span>Simulation packages</span>
     items:
       - name: "<span style='text-transform: none;'>VASP</span>"
         description: ''
