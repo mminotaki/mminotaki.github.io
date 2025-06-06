@@ -204,11 +204,6 @@ skills:
   - name: ''
   - name: ''
   - name: ''
-design:
-columns: 3
-
-#add your own SVG icons to `assets/media/icons/`
-skills:
   - name: Libraries
     items:
       - name: "<span style='text-transform: none;'>Scikit-learn</span>"
@@ -278,8 +273,7 @@ skills:
       - name: ' '
         description: ''
         icon: ''
-design:
-  columns: 2
+
 
 # languages:
 #   - name: Greek
