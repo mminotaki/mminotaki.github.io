@@ -95,19 +95,19 @@ work:
 skills:
   - name: Programming
     items:
-      - name:  "<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' height='25'/>"
+      - name:  "<span style='text-transform: none;'>Python</span>"
         description: ''
         icon: ''
       - name: "<span style='text-transform: none;'>Fortan</span>"
         description: ''
         icon: ''
-      - name: Bash
+      - name: "<span style='text-transform: none;'>Bash</span>"
         description: ''
         icon: ''
-      - name: SQL
+      - name: "<span style='text-transform: none;'>SQL</span>"
         description: ''
         icon: ''
-      - name: Julia
+      - name: "<span style='text-transform: none;'>Julia</span>"
         description: ''
         icon: ''
       - name: ' '
@@ -132,16 +132,16 @@ skills:
   - name: ''
   - name: Simulation packages
     items:
-      - name: VASP
+      - name: "<span style='text-transform: none;'>VASP</span>"
         description: ''
         icon: ''
-      - name: GPAW
+      - name: "<span style='text-transform: none;'>GPAW</span>"
         description: ''
         icon: ''
-      - name: Gaussian
+      - name: "<span style='text-transform: none;'>Gaussian</span>"
         description: ''
         icon: ''
-      - name: LAMMPS
+      - name: "<span style='text-transform: none;'>LAMMPS</span>" 
         description: ''
         icon: ''
       - name: ' '
@@ -169,22 +169,22 @@ skills:
   - name: ''
   - name: Data Science & Development
     items:
-      - name: Machine Learning
+      - name: "<span style='text-transform: none;'>Machine Learning</span>"
         description: ''
         icon: ''
-      - name: Data Analysis
+      - name: "<span style='text-transform: none;'>Data Analysis</span>"
         description: ''
         icon: ''
-      - name: Data Engineering
+      - name: "<span style='text-transform: none;'>Data Enineering</span>"
         description: ''
         icon: ''
-      - name: OOP
+      - name: "<span style='text-transform: none;'>OOP</span>"
         description: ''
         icon: ''
-      - name: Package development
+      - name: "<span style='text-transform: none;'>Package development</span>"
         description: ''
         icon: ''
-      - name: Data storytelling
+      - name: "<span style='text-transform: none;'>Data storytelling</span>"
         description: ''
         icon: ''
       - name: ' '
@@ -206,25 +206,22 @@ skills:
   - name: ''
   - name: Libraries
     items:
-      - name: Scikit-learn
+      - name: "<span style='text-transform: none;'>Scikit-learn</span>"
         description: ''
         icon: ''
-      - name: Pymatgen
+      - name: "<span style='text-transform: none;'>Pytmagen</span>"
         description: ''
         icon: ''
-      - name: ASE
+      - name: "<span style='text-transform: none;'>ASE</span>"
         description: ''
         icon: ''
-      - name: Pandas
+      - name: "<span style='text-transform: none;'>Pandas</span>"
         description: ''
         icon: ''
-      - name: Seaborn
+      - name: "<span style='text-transform: none;'>Seaborn</span>"
         description: ''
         icon: ''
-      - name: Plotly
-        description: ''
-        icon: ''
-      - name: ' '
+      - name: "<span style='text-transform: none;'>Plotly</span>"
         description: ''
         icon: ''
       - name: ' '
@@ -236,38 +233,41 @@ skills:
       - name: ' '
         description: ''
         icon: ''
+      - name: ' '
+        description: ''
+        icon: ''
   - name: ''
   - name: ''
   - name: ''
   - name: ''
   - name: ''
-  - name: Fremeworks & Tools
+  - name: Frameworks & Tools
     items:
-      - name: HPC-slurm
+      - name: "<span style='text-transform: none;'>HPC-slurm</span>"
         description: ''
         icon: ''
-      - name: Conda
+      - name: "<span style='text-transform: none;'>Conda</span>"
         description: ''
         icon: ''
-      - name: Git
+      - name: "<span style='text-transform: none;'>Git</span>"
         description: ''
         icon: ''
-      - name: VS Code
+      - name: "<span style='text-transform: none;'>VS Code</span>"
         description: ''
         icon: ''
-      - name: Vim
+      - name: "<span style='text-transform: none;'>Vim</span>"
         description: ''
         icon: ''
-      - name: VESTA
+      - name: "<span style='text-transform: none;'>VESTA</span>"
         description: ''
         icon: ''
-      - name: Blender
+      - name: "<span style='text-transform: none;'>Blender</span>"
         description: ''
         icon: ''
-      - name: Inkscape
+      - name: "<span style='text-transform: none;'>Inkscape</span>"
         description: ''
         icon: ''
-      - name: LaTeX
+      - name: "<span style='text-transform: none;'>LaTeX</span>"
         description: ''
         icon: ''
       - name: ' '
