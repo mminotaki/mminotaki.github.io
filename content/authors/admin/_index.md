@@ -95,10 +95,10 @@ work:
 skills:
   - name: Programming
     items:
-      - name: "<span style='text-transform: none;'>Python</span>"
+      - name:  "<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' height='25'/>"
         description: ''
         icon: ''
-      - name: Fortran
+      - name: "<span style='text-transform: none;'>Fortan</span>"
         description: ''
         icon: ''
       - name: Bash
