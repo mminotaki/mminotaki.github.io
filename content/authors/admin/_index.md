@@ -204,6 +204,11 @@ skills:
   - name: ''
   - name: ''
   - name: ''
+
+      
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
+skills:
   - name: Libraries
     items:
       - name: "<span style='text-transform: none;'>Scikit-learn</span>"
@@ -273,7 +278,6 @@ skills:
       - name: ' '
         description: ''
         icon: ''
-      
 
 
 # languages:
