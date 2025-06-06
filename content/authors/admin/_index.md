@@ -204,10 +204,10 @@ skills:
   - name: ''
   - name: ''
   - name: ''
+design:
+columns: 3
 
-      
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+#add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Libraries
     items:
@@ -278,7 +278,8 @@ skills:
       - name: ' '
         description: ''
         icon: ''
-
+design:
+  columns: 2
 
 # languages:
 #   - name: Greek
