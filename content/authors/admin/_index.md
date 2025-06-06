@@ -36,7 +36,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/mminotaki
   - icon: brands/linkedin
-    url: in/maria-minotaki-phd-821420215
+    url: https://www.linkedin.com/in/maria-minotaki-phd-821420215/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=el&user=wogNK3YAAAAJ
   - icon: academicons/orcid
