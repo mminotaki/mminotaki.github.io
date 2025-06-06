@@ -167,7 +167,7 @@ skills:
   - name: ''
   - name: ''   
   - name: ''
-  - name: Data Science & Development
+  - name: "Data Science&nbsp;&amp;&nbsp;Development"
     items:
       - name: "<span style='text-transform: none;'>Machine Learning</span>"
         description: ''
@@ -241,7 +241,7 @@ skills:
   - name: ''
   - name: ''
   - name: ''
-  - name: Frameworks & Tools
+  - name: "Frameworks&nbsp;&amp;&nbsp;Tools"
     items:
       - name: "<span style='text-transform: none;'>HPC-slurm</span>"
         description: ''
