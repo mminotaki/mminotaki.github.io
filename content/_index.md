@@ -30,16 +30,17 @@ sections:
           size: cover
           position: center
           parallax: false
-  # - block: markdown
-  #   content:
-  #     title: 'Machine Learning for Catalysts Design'
-  #     subtitle: ''
-  #     text: |
-  #       Developing sustainable technologies is crucial for overcoming environmental challenges and driving socioeconomic progress. My research focuses on improving Single-atom catalysts (SACs), as they offer exceptional activity and selectivity, yet their stability remains a key challenge in catalyst design. This is achieved, by using a multilevel approach, integrating machine learning with computational methods, to systematically investigate the stability of SACs on doped carbon. Specifically, a machine learning framework is developed to identify key stability descriptors, capturing the interplay between metal and support interactions. Electronic structure analysis reveals the influence of nitrogen speciation on SACs electronic properties, while dimensionality reduction techniques uncover regions of electronic similarity. The transferability of the stability descriptors is assessed in dual-atom catalysts, demonstrating their applicability to more complex systems. Finally, the deactivation mechanism of Fe-N<sub>x</sub>C<sub>y</sub> moieties under oxygen reduction reaction conditions is examined, revealing the destabilizing effect of reactive oxygen species on metal-host bonds. The findings provide actionable insights for developing more robust, efficient, and sustainable catalysts for energy and environmental applications.
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: 'Machine Learning for Catalysts Design'
+      subtitle: ''
+      text: |
+        Developing sustainable technologies is crucial for overcoming environmental challenges and driving socioeconomic progress. My research focuses on improving Single-atom catalysts (SACs), as they offer exceptional activity and selectivity, yet their stability remains a key challenge in catalyst design. This is achieved, by using a multilevel approach, integrating machine learning with computational methods, to systematically investigate the stability of SACs on doped carbon. Specifically, a machine learning framework is developed to identify key stability descriptors, capturing the interplay between metal and support interactions. Electronic structure analysis reveals the influence of nitrogen speciation on SACs electronic properties, while dimensionality reduction techniques uncover regions of electronic similarity. The transferability of the stability descriptors is assessed in dual-atom catalysts, demonstrating their applicability to more complex systems. Finally, the deactivation mechanism of Fe-N<sub>x</sub>C<sub>y</sub> moieties under oxygen reduction reaction conditions is examined, revealing the destabilizing effect of reactive oxygen species on metal-host bonds. The findings provide actionable insights for developing more robust, efficient, and sustainable catalysts for energy and environmental applications.
+    design:
+      columns: '1'
+      css_class: "prose prose-sm mx-auto max-w-3xl"
 
-
+      
   # - block: collection
   #   id: papers
   #   content:
@@ -123,6 +124,3 @@ sections:
   #       css_style: ""
 ---
 
-## Machine Learning for Catalysts Design
-
-Developing sustainable technologies is crucial for overcoming environmental challenges and driving socioeconomic progress. My research focuses on improving Single-atom catalysts (SACs), as they offer exceptional activity and selectivity, yet their stability remains a key challenge in catalyst design. This is achieved, by using a multilevel approach, integrating machine learning with computational methods, to systematically investigate the stability of SACs on doped carbon. Specifically, a machine learning framework is developed to identify key stability descriptors, capturing the interplay between metal and support interactions. Electronic structure analysis reveals the influence of nitrogen speciation on SACs electronic properties, while dimensionality reduction techniques uncover regions of electronic similarity. The transferability of the stability descriptors is assessed in dual-atom catalysts, demonstrating their applicability to more complex systems. Finally, the deactivation mechanism of Fe-N<sub>x</sub>C<sub>y</sub> moieties under oxygen reduction reaction conditions is examined, revealing the destabilizing effect of reactive oxygen species on metal-host bonds. The findings provide actionable insights for developing more robust, efficient, and sustainable catalysts for energy and environmental applications.
