@@ -361,4 +361,4 @@ awards:
 
 ## About Me
 
-I hold a PhD in Computational Chemistry from the Institute of Chemical Research of Catalonia. My research focuses on first-principles simulations, machine learning, and data science applied to catalyst design. With experience across physics, materials science, and chemistry, I develop predictive models and simulation workflows to accelerate discoveries in theoretical catalysis.
+I hold a PhD in Computational Chemistry from the Institute of Chemical Research of Catalonia (ICIQ), where I conducted my research under the supervision of Prof. Núria López. My work focuses on first-principles simulations, machine learning, and data science applied to catalyst design. With experience across physics, materials science, and chemistry, I develop predictive models and simulation workflows to accelerate discoveries in catalysis.
