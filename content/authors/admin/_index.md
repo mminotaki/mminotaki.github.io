@@ -95,7 +95,7 @@ work:
 skills:
   - name: Programming
     items:
-      - name: Python
+      - name: "<span style='text-transform: none;'>Python</span>"
         description: ''
         icon: ''
       - name: Fortran
