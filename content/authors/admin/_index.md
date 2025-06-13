@@ -93,20 +93,29 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: "<div style='margin-left:0; padding-left:0;'>Programming</div>"
+  - name: "Programming"
     items:
-      - name:  "<span style='text-transform: none;'>Python</span>"
+      - name: "<span style='text-transform: none;'>Python</span>"
       - name: "<span style='text-transform: none;'>Fortan</span>"
       - name: "<span style='text-transform: none;'>Bash</span>"
       - name: "<span style='text-transform: none;'>SQL</span>"
       - name: "<span style='text-transform: none;'>Julia</span>"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
    
   - name: "Simulation Packages"
     items:
       - name: "<span style='text-transform: none;'>VASP</span>"
       - name: "<span style='text-transform: none;'>GPAW</span>"
       - name: "<span style='text-transform: none;'>Gaussian</span>"
-      - name: "<span style='text-transform: none;'>LAMMPS</span>" 
+      - name: "<span style='text-transform: none;'>LAMMPS</span>"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
      
   - name: "Data Science&nbsp;&amp;&nbsp;Development"
     items:
@@ -116,8 +125,11 @@ skills:
       - name: "<span style='text-transform: none;'>OOP</span>"
       - name: "<span style='text-transform: none;'>Package development</span>"
       - name: "<span style='text-transform: none;'>Data storytelling</span>"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
      
-  - name: ¨Libraries¨
+  - name: "Libraries"
     items:
       - name: "<span style='text-transform: none;'>Scikit-learn</span>"
       - name: "<span style='text-transform: none;'>Pytmagen</span>"
@@ -125,8 +137,10 @@ skills:
       - name: "<span style='text-transform: none;'>Pandas</span>"
       - name: "<span style='text-transform: none;'>Seaborn</span>"
       - name: "<span style='text-transform: none;'>Plotly</span>"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
+      - name: "&nbsp;"
        
-  
   - name: "Frameworks&nbsp;&amp;&nbsp;Tools"
     items:
       - name: "<span style='text-transform: none;'>HPC-slurm</span>"
@@ -138,7 +152,7 @@ skills:
       - name: "<span style='text-transform: none;'>Blender</span>"
       - name: "<span style='text-transform: none;'>Inkscape</span>"
       - name: "<span style='text-transform: none;'>LaTeX</span>"
-        
+
       
 
 
