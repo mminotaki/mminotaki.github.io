@@ -101,7 +101,7 @@ skills:
       - name: "<span style='text-transform: none;'>SQL</span>"
       - name: "<span style='text-transform: none;'>Julia</span>"
    
-  - name: "Simulation&nbsp;Packages"
+  - name: "Simulation Packages"
     items:
       - name: "<span style='text-transform: none;'>VASP</span>"
       - name: "<span style='text-transform: none;'>GPAW</span>"
