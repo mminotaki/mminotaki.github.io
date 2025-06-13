@@ -117,7 +117,7 @@ skills:
       - name: "<span style='text-transform: none;'>Package development</span>"
       - name: "<span style='text-transform: none;'>Data storytelling</span>"
      
-  - name: ¨Libraries.....¨
+  - name: ¨Libraries¨
     items:
       - name: "<span style='text-transform: none;'>Scikit-learn</span>"
       - name: "<span style='text-transform: none;'>Pytmagen</span>"
